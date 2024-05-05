@@ -1,5 +1,37 @@
 # Cancer-Prediction
 
+Assign-1:
+Objective: 1. Classify breast tumour dataset into 2 classes i.e, benign or malignant using machine learning models like- Logistic Regression, SVM , Neural Network.
+
+2. Evaluate the model accuracy.
+
+About Dataset: The given dataset is made up with fine needle aspiration biopsy reports where a thin needle is inserted into abnormal tissue or fluid, aiding in diagnosis or excluding conditions like cancer. The dataset contains a total 569 number of biopsy out of which 357 are benign, 212 are malignant. Column ‘diagnosis’ contains the report. [M—-Malignant, B——Benign]. The features this dataset contains are as follows
+
+Parameters: Ten real-valued features are computed for each cell nucleus:
+
+a) radius (mean of distances from center to points on the perimeter)
+
+b) texture (Standard deviation of gray-scale values)
+
+c) perimeter
+
+d) area
+
+e) smoothness (local variation in radius lengths)
+
+f) compactness (perimeter*2 / area - 1.0)
+
+g) concavity (severity of concave portions of the contour)
+
+h) concave points (number of concave portions of the contour)
+
+i) symmetry
+
+j) fractal dimension
+
+The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features.
+
+Assign-2:
 Objective: This assignment focuses on understanding and comparing the performance of different machine learning models for predicting cancer types based on a given dataset. You will analyse Support Vector Machines (SVM), Random forest (RF), neural network (NN) regression and other relevant techniques.
 
 Instructions:
