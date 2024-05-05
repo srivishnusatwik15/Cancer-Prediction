@@ -35,7 +35,11 @@ The mean, standard error and "worst" or largest (mean of the three largest value
 
 
 
-S
+
+
+
+
+
 Assign-2:
 
 Objective: This assignment focuses on understanding and comparing the performance of different machine learning models for predicting cancer types based on a given dataset. You will analyse Support Vector Machines (SVM), Random forest (RF), neural network (NN) regression and other relevant techniques.
